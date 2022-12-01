@@ -40,10 +40,10 @@ const World = () => (
           <img src="people-03.png" alt="people-03" className="w-full h-full" />
         </div>
         <div className="absolute left-[65%] bottom-[65%] right-[20%] w-[10vh] h-[10vh] p-[6px] rounded-lg bg-[#5D6680]">
-          <img src="map1.png" alt="map1" className="w-full h-full" />
+          <img src="Map1.png" alt="map1" className="w-full h-full" />
         </div>
         <div className="absolute top-1/2 left-[20%] right-[10%] w-[10vh] h-[10vh] p-[6px] rounded-lg bg-[#5D6680]">
-          <img src="map2.png" alt="map2" className="w-full h-full" />
+          <img src="Map2.png" alt="map2" className="w-full h-full" />
         </div>
       </motion.div>
     </motion.div>
